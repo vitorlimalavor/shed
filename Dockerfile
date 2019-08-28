@@ -14,7 +14,7 @@ RUN yum install -y https://centos7.iuscommunity.org/ius-release.rpm
 
 RUN yum install -y python36u python36u-libs python36u-devel python36u-pip 
 
-COPY rundasa/* /app/
+COPY rundasa01/* /app/
 
 RUN pip3.6 install -r requirements.txt
 
