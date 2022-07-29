@@ -21,7 +21,7 @@ jedi==0.14.1
 Jinja2==2.10.1
 jsonschema==3.0.2
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 nbconvert==5.5.0
 nbformat==4.4.0
 pandocfilters==1.4.2
